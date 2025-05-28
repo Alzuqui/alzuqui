@@ -4,7 +4,9 @@ Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformát
 
 - 🌱 Estoy estudiando programación en *C#* y *JS*.
 - Tengo una pequeña página web en wordpress donde he documentado el temario que hemos dado en Sistemas Informáticos: [**_azq29.com_**](https://azq29.wordpress.com/).
-
+- Puedo trabajar reparando (montando/desmontando) equipos de sobremesa.
+- Querría aprender a reparar portátiles y tablets.
+- Puedo trabajar con redes y sistemas, virtualización.
 ### Conocimientos
 
 | Lenguaje | Nivel |
