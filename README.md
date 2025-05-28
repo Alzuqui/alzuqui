@@ -3,9 +3,10 @@
 Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformáticos y Redes) y actualmente estoy estudiando el grado superior de DAW (Desarrollo de Aplicaciones Web).
 
 - 🌱 Estoy estudiando programación en *C#* 
-- Tengo una pequeña página web en wordpress donde he documentado el temario que hemos dado en Sistemas Informáticos: [*azq29.com*](https://azq29.wordpress.com/)
+- Tengo una pequeña página web en wordpress donde he documentado el temario que hemos dado en Sistemas Informáticos: [**_azq29.com_**](https://azq29.wordpress.com/)
 
 ###Conocimientos###
+
 | Lenguaje | Nivel |
 | -------- | ----- |
 | HTML/CSS | Básico |
