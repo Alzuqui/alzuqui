@@ -14,10 +14,14 @@ Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformát
 | C# | De momento nulo |
 
 Sé montar y desmontar equipos de sobremesa, con la posibilidad de aprender a desmontar y montar portátiles y tablets, sé trabajar con redes y sistemas, virtualización.
+<!--
+![Willem Dafoe](https://github.com/Alzuqui/alzuqui/blob/main/GXABVcSWgAA6bMj.png)
+-->
+<p <align="left">
+ <img src="https://github.com/Alzuqui/alzuqui/blob/main/GXABVcSWgAA6bMj.png" alt="Willem Dafoe" width="200" height="200">
+</p>
 
-
-
-
+[Brain Rot](https://www.youtube.com/watch?v=-vFWHUMM8aA)
 <!--
 **Alzuqui/alzuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
