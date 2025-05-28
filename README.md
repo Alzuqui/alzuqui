@@ -20,13 +20,17 @@ Sé montar y desmontar equipos de sobremesa, con la posibilidad de aprender a de
 <p <align="left">
  <img src="https://github.com/Alzuqui/alzuqui/blob/main/GXABVcSWgAA6bMj.png" alt="Willem Dafoe" width="200" height="200">
 </p>
+
 <!--
 Link gracioso.
 -->
+
 [Brain Rot](https://www.youtube.com/watch?v=-vFWHUMM8aA)
+
 <!--
 Mimso link pero con una imagen de miniatura.
 -->
+
 <a href='https://www.youtube.com/watch?v=-vFWHUMM8aA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-vFWHUMM8aA/mqdefault.jpg' alt='' />
 </a>
