@@ -1,4 +1,5 @@
 ## Hola!👋, mi nombre es Alejandro
+#### Parte seria:
 
 Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformáticos y Redes) y actualmente estoy estudiando el grado superior de DAW (Desarrollo de Aplicaciones Web).
 
@@ -15,6 +16,7 @@ Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformát
 | 🔴*JavaScript* | De momento nulo |
 | 🔴*C#* | De momento nulo |
 
+#### Parte de broma:
 <!--
 ![Willem Dafoe](https://github.com/Alzuqui/alzuqui/blob/main/GXABVcSWgAA6bMj.png)
 -->
