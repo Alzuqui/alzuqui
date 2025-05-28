@@ -9,9 +9,9 @@ Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformát
 
 | Lenguaje | Nivel |
 | -------- | ----- |
-| HTML/CSS | Básico |
-| JavaScript | Básico |
-| C# | De momento nulo |
+| *HTML/CSS* | Básico |
+| *JavaScript* | Básico |
+| *C#* | De momento nulo |
 
 Sé montar y desmontar equipos de sobremesa, con la posibilidad de aprender a desmontar y montar portátiles y tablets, sé trabajar con redes y sistemas, virtualización.
 <!--
@@ -20,8 +20,17 @@ Sé montar y desmontar equipos de sobremesa, con la posibilidad de aprender a de
 <p <align="left">
  <img src="https://github.com/Alzuqui/alzuqui/blob/main/GXABVcSWgAA6bMj.png" alt="Willem Dafoe" width="200" height="200">
 </p>
-
+<!--
+Link gracioso.
+-->
 [Brain Rot](https://www.youtube.com/watch?v=-vFWHUMM8aA)
+<!--
+Mimso link pero con una imagen de miniatura.
+-->
+<a href='https://www.youtube.com/watch?v=-vFWHUMM8aA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-vFWHUMM8aA/mqdefault.jpg' alt='' />
+</a>
+ 
 <!--
 **Alzuqui/alzuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
