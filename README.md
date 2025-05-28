@@ -1,4 +1,4 @@
-## Hola👋, mi nombre es Alejandro
+## Hola!👋, mi nombre es Alejandro
 
 Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformáticos y Redes) y actualmente estoy estudiando el grado superior de DAW (Desarrollo de Aplicaciones Web).
 
