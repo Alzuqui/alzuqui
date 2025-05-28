@@ -9,9 +9,9 @@ Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformát
 
 | Lenguaje | Nivel |
 | -------- | ----- |
-| *HTML/CSS* | Básico |
-| *JavaScript* | Básico |
-| *C#* | De momento nulo |
+| 🟡*HTML/CSS* | Básico |
+| 🔴*JavaScript* | De momento nulo |
+| 🔴*C#* | De momento nulo |
 
 Sé montar y desmontar equipos de sobremesa, con la posibilidad de aprender a desmontar y montar portátiles y tablets, sé trabajar con redes y sistemas, virtualización.
 <!--
