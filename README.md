@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola👋, mi nombre es Alejandro
 
+Tengo 21 años y tengo el titulo del grado medio de SMR (Sistemas Microinformáticos y Redes) y actualmente estoy estudiando el grado superior de DAW (Desarrollo de Aplicaciones Web)
 <!--
 **Alzuqui/alzuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
